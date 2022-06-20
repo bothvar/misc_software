@@ -27,6 +27,7 @@
 - vulkan
 
 #### Misc:
+- firefox (vimium-ff, umatrix, ublock-origin, https-only mode, startpage as default search engine)
 - curl
 - mupdf
 - openvpn
@@ -41,7 +42,6 @@
 - xclip
 - picom
 - scrot
-- firefox (vimium-ff, umatrix, ublock-origin, https-only mode)
 - busybox
 - doas
 - openssl
