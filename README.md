@@ -1,5 +1,6 @@
-#### Linux Distros:
+#### OSes:
 - Alpine Linux
+- OpenBSD
 - Void Linux
 - Devuan Linux
 
