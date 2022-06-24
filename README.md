@@ -16,7 +16,7 @@
 - bspwm & sxhkd & dmenu
 - adobe source code pro (font)
 - st
-- lemonbar (xft fork)
+- lemonbar-xft
 - slstatus
 
 #### Libraries:
@@ -28,13 +28,14 @@
 - vulkan
 
 #### Misc:
+- bsd base
 - firefox (vimium-ff, umatrix, ublock-origin, https-only mode, startpage as default search engine)
 - curl
 - mupdf
 - openvpn
 - irssi
-- sxiv
 - xbindkeys
+- xbacklight
 - brightnessctl
 - ufw
 - alsa-utils (alsamixer)
@@ -48,14 +49,15 @@
 - openssl
 - openssh
 - iwd
-- htop
 - feh
 - ffmpeg
 - youtube-dl
-- unclutter-xfixes
+- unclutter
 - synclient
 - xsetroot
 - mplayer
 - mpv
 - neofetch
 - dash
+- ksh
+- cmixer
