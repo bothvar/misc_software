@@ -29,7 +29,7 @@
 
 #### Misc:
 - bsd base
-- firefox (vimium-ff, umatrix, ublock-origin, https-only mode, startpage as default search engine)
+- firefox (vimium-ff, umatrix, ublock-origin, https-only mode, startpage as default search engine, media.peerconnection.enabled=off)
 - curl
 - mupdf
 - openvpn
