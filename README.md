@@ -5,16 +5,17 @@
 - Devuan Linux
 
 #### Development:
-- neovim / vim / vis
+- vim / neovim / vis
 - git
 - valgrind
 - gcc
 - make
 - musl libc
 - tcc
-- nnn / noice / rover
+- nnn
 - bspwm & sxhkd & dmenu
 - adobe source code pro (font)
+- ibm plex mono (font)
 - st
 - lemonbar-xft
 - slstatus
@@ -38,6 +39,8 @@
 - xbacklight
 - brightnessctl
 - ufw
+- pf
+- cmixer
 - alsa-utils (alsamixer)
 - mpd
 - ncmpc
@@ -60,4 +63,3 @@
 - neofetch
 - dash
 - ksh
-- cmixer
